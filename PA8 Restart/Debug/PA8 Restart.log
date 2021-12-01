@@ -1,0 +1,9 @@
+﻿  BSTFuncs.cpp
+  DataAnalysis.cpp
+  main.cpp
+  Generating Code...
+C:\Users\matta\source\repos\PA8 Restart\PA8 Restart\DataAnalysis.cpp(64): warning C4172: returning address of local variable or temporary: temp
+C:\Users\matta\source\repos\PA8 Restart\PA8 Restart\DataAnalysis.cpp(72): warning C4172: returning address of local variable or temporary: temp
+C:\Users\matta\source\repos\PA8 Restart\PA8 Restart\DataAnalysis.cpp(80): warning C4172: returning address of local variable or temporary: temp
+C:\Users\matta\source\repos\PA8 Restart\PA8 Restart\DataAnalysis.cpp(88): warning C4172: returning address of local variable or temporary: temp
+  PA8 Restart.vcxproj -> C:\Users\matta\source\repos\PA8 Restart\Debug\PA8 Restart.exe
